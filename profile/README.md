@@ -50,5 +50,5 @@ Thank you for visiting LLMQuant. We look forward to helping you unlock the poten
 
 ---
 
-![LLMQuant Logo]([https://docs.llmquant.com/assets/images/logo-short-a642e1d48bc67c18b60d075186c255f8.png](https://llmquant.com/dist/assets/logo-b.png))
+![LLMQuant Logo](https://llmquant.com/dist/assets/logo-b.png)
 **LLMQuant** - Empowering Financial Innovation with Large Language Models
