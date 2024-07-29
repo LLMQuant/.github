@@ -46,9 +46,8 @@ Follow us on social media:
 
 - 💼 [LinkedIn](https://linkedin.com/company/llmquant)
 
-Thank you for visiting LLMQuant. We look forward to helping you unlock the potential of LLMs in quantitative finance!
-
+- 💼 [Join our community](https://forms.gle/xYQS2sUbHgVEftkt5))
 ---
 
-![LLMQuant Logo](https://llmquant.com/dist/assets/logo-b.png)
-**LLMQuant** - Empowering Financial Innovation with Large Language Models
+
+**LLMQuant** - Leverage large language model for quant research
