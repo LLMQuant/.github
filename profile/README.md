@@ -12,7 +12,7 @@ LLMQuant is designed for quants, data scientists, and financial analysts who are
 
 At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows:
 
-- 🔮 **Predictive Modeling**: Enhance your predictive analytics with advanced LLM techniques to forecast market trends and behaviors.
+- 🔮 **Alpha Agent**: Enhance your predictive analytics with advanced LLM techniques to forecast market trends and behaviors.
 - 🤖 **Algorithmic Trading**: Automate your trading strategies with robust models powered by LLMs for improved performance and reduced risk.
 - 📈 **Sentiment Analysis**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
 - 📊 **Data Processing**: Leverage the power of LLMs to clean, preprocess, and analyze large datasets efficiently, extracting valuable insights.
