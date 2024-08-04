@@ -1,6 +1,6 @@
 # LLMQuant
 
-![LLMQuant Logo](https://llmquant.com/dist/assets/logo-b.png)
+![LLMQuant Logo](https://github.com/LLMQuant/.github/blob/main/logo-down.png)
 
 Welcome to **LLMQuant**, the ultimate resource for leveraging Large Language Models (LLMs) in quantitative finance. Our platform is dedicated to providing insights, tools, and tutorials to help you integrate the power of LLMs into your financial modeling and analysis.
 
