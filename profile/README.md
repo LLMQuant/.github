@@ -49,7 +49,7 @@ Follow us on social media:
 
 - 💼 [LinkedIn](https://linkedin.com/company/llmquant)
 
-- 💼 [Join our community](https://forms.gle/xYQS2sUbHgVEftkt5))
+- 💼 [Join our community](https://forms.gle/xYQS2sUbHgVEftkt5)
 ---
 
 
