@@ -8,6 +8,9 @@ Welcome to **LLMQuant**, the ultimate resource for leveraging Large Language Mod
 
 LLMQuant is designed for quants, data scientists, and financial analysts who are interested in harnessing the capabilities of LLMs to improve their quantitative research and trading strategies. Whether you are looking to enhance your predictive models, automate your trading algorithms, or gain deeper insights from financial data, LLMQuant has something for you.
 
+Short-term Goal: Enhance core libraries' usability, productivity, and performance. Increase AI adoption in quantitative research, maintain mature environments, and integrate key projects.
+Long-term Goal: Develop standardized tools and APIs for quantitative researcher and related financial professionals. Expand our open-source toolkit beyond foundational elements.
+
 ## Our Solutions
 
 At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows:
