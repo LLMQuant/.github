@@ -2,20 +2,20 @@
 
 ![LLMQuant Logo](https://github.com/LLMQuant/.github/blob/main/logo-down.png)
 
-Welcome to **LLMQuant**, the ultimate resource for leveraging Large Language Models (LLMs) in quantitative finance. Our platform is dedicated to providing insights, tools, and tutorials to help you integrate the power of LLMs into your financial modeling and analysis.
+Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large language model) and Quantitative research. We aim to leverage AI for quantitative research with feasible collection of techniques and solutions.
 
 ## About LLMQuant
 
 LLMQuant is designed for quants, data scientists, and financial analysts who are interested in harnessing the capabilities of LLMs to improve their quantitative research and trading strategies. Whether you are looking to enhance your predictive models, automate your trading algorithms, or gain deeper insights from financial data, LLMQuant has something for you.
 
 Short-term Goal: Enhance core libraries' usability, productivity, and performance. Increase AI adoption in quantitative research, maintain mature environments, and integrate key projects.
-Long-term Goal: Develop standardized tools and APIs for quantitative researcher and related financial professionals. Expand our open-source toolkit beyond foundational elements.
+Long-term Goal: Develop standardized tools and APIs for quantitative researchers and related financial professionals. Expand our open-source toolkit beyond foundational elements.
 
 ## Our Solutions
 
 At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows:
 
-- 🔮 **Alpha Agent**: Enhance your predictive analytics with advanced LLM techniques to forecast market trends and behaviors.
+- 🔮 **Alpha Agent**: Enhance your predictive analytics with advanced LLM techniques to forecast market trends and behaviours.
 - 🤖 **Algorithmic Trading**: Automate your trading strategies with robust models powered by LLMs for improved performance and reduced risk.
 - 📈 **Sentiment Analysis**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
 - 📊 **Data Processing**: Leverage the power of LLMs to clean, preprocess, and analyze large datasets efficiently, extracting valuable insights.
