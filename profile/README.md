@@ -18,11 +18,11 @@ At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in
 - 📊 **QuantPedia**: Leverage the power of LLMs to clean, preprocess, and analyze large datasets efficiently, extracting valuable insights.
 - 📝 **Quant Copilot**: Apply LLMs for various NLP tasks such as text generation, summarization, and translation within the financial domain.
 
-## Features
+## How it works
 
-- 📚 **Comprehensive Tutorials**: Step-by-step guides on implementing LLMs in various financial applications.
-- 🛠️ **Tools and Resources**: Access to code repositories, datasets, and pre-trained models to accelerate your projects.
-- 🧠 **Expert Insights**: Articles and analysis from industry experts on the latest trends and advancements in the field.
+- 📚 **Join**: Join the community and explore the latest AI use case in quantitative research with us, you will receive the event updates and access our best AI4Quant solutions.
+- 🛠️ **Contribute**: You can contribute to our community by sharing your use case of AI in quantitative finance. We strongly appreciate the code contribution to our github project repositories.
+- 🧠 **Apply**: Apply our best AI4Quant solutions in production environment, which are verified by experienced quantiative researchers and AI experts.
 - 🤝 **Community Support**: Join our community of like-minded professionals to share knowledge, ask questions, and collaborate on projects.
 
 ## Getting Started
@@ -31,7 +31,7 @@ To get started with LLMQuant, visit our [website](https://llmquant.com/) and exp
 
 1. 📘 **Tutorials**: Detailed guides to help you get started with LLMs in finance.
 2. 💾 **Resources**: Downloadable code, datasets, and models.
-3. 📰 **Blog**: Stay updated with the latest news and expert opinions.
+3. 📰 **Update**: Stay updated with the latest news and expert opinions.
 4. 🌐 **Community**: Connect with other professionals in the field.
 
 ## Contributing
