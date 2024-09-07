@@ -1,6 +1,9 @@
 # LLMQuant
 
 ![LLMQuant Logo](https://github.com/LLMQuant/.github/blob/main/logo-down.png)
+![思源（xiao）](https://github.com/user-attachments/assets/fda2711c-7518-4ca1-9fd4-bb3fa8ad692f)
+![Main_Scene](https://github.com/user-attachments/assets/ef01db0b-2e36-46c2-8671-34973bf2f1c1)
+
 
 Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large language model) and Quantitative research. We aim to leverage AI for quantitative research with feasible collection of techniques and solutions.
 
