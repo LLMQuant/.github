@@ -50,7 +50,8 @@ Follow us on social media:
 - 💼 [Join our community](https://forms.gle/xYQS2sUbHgVEftkt5)
 ---
 
-![思源（xiao）](https://github.com/user-attachments/assets/fda2711c-7518-4ca1-9fd4-bb3fa8ad692f)
+![en-animation](https://github.com/user-attachments/assets/f37a2239-65e3-4b76-a70c-89b7990073e9)
+
 
 
 **LLMQuant** - The AI community building future technology for quant research
