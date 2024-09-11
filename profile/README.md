@@ -1,7 +1,3 @@
-# LLMQuant
-
-
-
 ![en-animation](https://github.com/user-attachments/assets/f37a2239-65e3-4b76-a70c-89b7990073e9)
 
 
@@ -18,7 +14,7 @@ At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in
 
 - 🔮 **Alpha Agent**: Enhance your predictive analytics with advanced LLM techniques to forecast market trends and behaviours.
 - 🤖 **QuantGPT**: Automate your trading strategies with robust models powered by LLMs for improved performance and reduced risk.
-- 📈 **SentimentGPT**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
+- 📈 **Sentiment Agent**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
 - 📊 **QuantPedia**: Leverage the power of LLMs to clean, preprocess, and analyze large datasets efficiently, extracting valuable insights.
 - 📝 **Quant Copilot**: Apply LLMs for various NLP tasks such as text generation, summarization, and translation within the financial domain.
 
