@@ -15,9 +15,7 @@ Magents is an open-source Python framework for a multi-strategy hedge fund backt
 At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows
 
 ### Quant-Wiki:
-Quant Wiki is an open-source Chinese quantitative finance encyclopedia dedicated to creating a free, open, and continuously updated knowledge-sharing platform for **quantitative finance**. Here, users can learn about the core principles of quantitative trading, commonly used models, algorithm design, and practical trading strategies.  
-
-We provide a wealth of resources, including **factor models, event-driven strategies, execution cost optimization**, and more, to help users quickly master essential skills in quantitative investing and advance toward professional expertise.
+Quant Wiki is an open-source Chinese quantitative finance encyclopedia dedicated to creating a free, open, and continuously updated knowledge-sharing platform for **quantitative finance**. Here, users can learn about the core principles of quantitative trading, commonly used models, algorithm design, and practical trading strategies. We provide a wealth of resources, including **factor models, event-driven strategies, execution cost optimization**, and more, to help users quickly master essential skills in quantitative investing and advance toward professional expertise.
 
 ### Other solutions
 - 📈 **Sentiment Agent**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
