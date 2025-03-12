@@ -12,10 +12,8 @@ We are LLMQuant, an open-source community focusing on AI, LLM (large language mo
 
 At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows:
 
-- 🔮 **Alpha Agent**: Enhance your predictive analytics with advanced LLM techniques to forecast market trends and behaviours.
-- 🤖 **QuantGPT**: Automate your trading strategies with robust models powered by LLMs for improved performance and reduced risk.
+- 🔮 **Magents (Multi-Agent Generative Trading System)**: Magents is an open-source Python framework for a multi-strategy hedge fund backtesting and simulation system. The platform is designed as a multi-agent system in which independent strategy "pods" operate concurrently within a shared simulation environment. The goal is to enable realistic backtesting of multiple trading strategies under one umbrella, with unified data feeds and rigorous risk controls.
 - 📈 **Sentiment Agent**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
-- 📊 **QuantPedia**: Leverage the power of LLMs to clean, preprocess, and analyze large datasets efficiently, extracting valuable insights.
 - 📝 **Quant Copilot**: Apply LLMs for various NLP tasks such as text generation, summarization, and translation within the financial domain.
 
 ## How it works
