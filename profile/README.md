@@ -10,9 +10,16 @@ We are LLMQuant, an open-source community focusing on AI, LLM (large language mo
 
 ## Our Solutions
 
-At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows:
+### Magents (Multi-Agent Generative Trading System)
+Magents is an open-source Python framework for a multi-strategy hedge fund backtesting and simulation system. The platform is designed as a multi-agent system in which independent strategy "pods" operate concurrently within a shared simulation environment. The goal is to enable realistic backtesting of multiple trading strategies under one umbrella, with unified data feeds and rigorous risk controls.
+At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows
 
-- 🔮 **Magents (Multi-Agent Generative Trading System)**: Magents is an open-source Python framework for a multi-strategy hedge fund backtesting and simulation system. The platform is designed as a multi-agent system in which independent strategy "pods" operate concurrently within a shared simulation environment. The goal is to enable realistic backtesting of multiple trading strategies under one umbrella, with unified data feeds and rigorous risk controls.
+### Quant-Wiki:
+Quant Wiki is an open-source Chinese quantitative finance encyclopedia dedicated to creating a free, open, and continuously updated knowledge-sharing platform for **quantitative finance**. Here, users can learn about the core principles of quantitative trading, commonly used models, algorithm design, and practical trading strategies.  
+
+We provide a wealth of resources, including **factor models, event-driven strategies, execution cost optimization**, and more, to help users quickly master essential skills in quantitative investing and advance toward professional expertise.
+
+### Other solutions
 - 📈 **Sentiment Agent**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
 - 📝 **Quant Copilot**: Apply LLMs for various NLP tasks such as text generation, summarization, and translation within the financial domain.
 
