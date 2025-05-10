@@ -1,12 +1,9 @@
 ![en-animation](https://github.com/user-attachments/assets/f37a2239-65e3-4b76-a70c-89b7990073e9)
 
 
-
-Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large language model) and Quantitative research. We aim to leverage AI for financial investment research with feasible collection of techniques and solutions.
-
 ## About LLMQuant
 
-We are LLMQuant, an open-source community focusing on AI, LLM (large language model) and quantitative finance. We aim to leverage AI to financial investment research with feasible collection of techniques and solutions.
+Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large language model) and quantitative finance. We aim to leverage AI to financial investment research with feasible collection of techniques and solutions.
 
 ## Our Solutions
 
