@@ -5,18 +5,29 @@
 
 Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large language model) and quantitative finance. We aim to leverage AI to financial investment research with feasible collection of techniques and solutions.
 
-## Our Solutions
+# 🔍 Our Solutions
 
-### Magents (Multi-Agent Generative Trading System)
-Magents is an open-source Python framework for a multi-strategy hedge fund backtesting and simulation system. The platform is designed as a multi-agent system in which independent strategy "pods" operate concurrently within a shared simulation environment. The goal is to enable realistic backtesting of multiple trading strategies under one umbrella, with unified data feeds and rigorous risk controls.
-At LLMQuant, we offer a range of solutions to help you apply LLMs effectively in your financial workflows
+### 🌐 [Quant-Wiki.com](https://quant-wiki.com)
+An open-source knowledge base for quantitative investing. Our mission is to bridge the gap between retail users and professional quantitative researchers.
 
-### Quant-Wiki:
-Quant Wiki is an open-source Chinese quantitative finance encyclopedia dedicated to creating a free, open, and continuously updated knowledge-sharing platform for **quantitative finance**. Here, users can learn about the core principles of quantitative trading, commonly used models, algorithm design, and practical trading strategies. We provide a wealth of resources, including **factor models, event-driven strategies, execution cost optimization**, and more, to help users quickly master essential skills in quantitative investing and advance toward professional expertise.
+### 🧠 LLMQuant Data
+Connect your large language models (LLMs) with AI-readable financial data. We're building the financial data infrastructure for generative AI.
 
-### Other solutions
-- 📈 **Sentiment Agent**: Utilize LLMs to gauge market sentiment from news, social media, and other sources to inform your investment decisions.
-- 📝 **Quant Copilot**: Apply LLMs for various NLP tasks such as text generation, summarization, and translation within the financial domain.
+### 📊 MarketPulse
+Conduct deep market research using AI Agents and private knowledge from financial experts.
+
+### 🤖 Magents.ai
+The next-generation AI-powered trading system for strategy simulation and backtesting.
+
+## 🧩 Other Ecosystem Components
+Including (but not limited to):
+- **quantquestion.com**
+- **alpha agent**
+- **deep research**
+- and more coming soon...
+
+## 🚀 Vision
+To build an open, intelligent, and collaborative fintech ecosystem that empowers researchers, developers, and investors alike.
 
 ## How it works
 
