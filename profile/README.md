@@ -6,7 +6,7 @@ Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large lan
 
 ## About LLMQuant
 
-We are LLMQuant, an open-source community focusing on AI, LLM (large language model) and quantitative finance. We aim to leverage AI to quantitative research with feasible collection of techniques and solutions.
+We are LLMQuant, an open-source community focusing on AI, LLM (large language model) and quantitative finance. We aim to leverage AI to financial investment research with feasible collection of techniques and solutions.
 
 ## Our Solutions
 
