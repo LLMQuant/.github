@@ -1,60 +1,198 @@
-![en-animation](https://github.com/user-attachments/assets/f37a2239-65e3-4b76-a70c-89b7990073e9)
+<div align="center">
 
+<img src="https://github.com/user-attachments/assets/f37a2239-65e3-4b76-a70c-89b7990073e9" alt="LLMQuant" width="100%"/>
 
-## About LLMQuant
+<br/>
 
-Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large language model) and quantitative finance. We aim to leverage AI to financial investment research with feasible collection of techniques and solutions.
+<h1>LLMQuant</h1>
 
-# 🔍 Our Solutions
+<p>
+  <strong>Open-source community for AI, LLMs, and Quantitative Finance</strong>
+  <br/>
+  <sub><em>Empowering research and investment decisions with Large Language Models.</em></sub>
+</p>
 
-### 🌐 [LLMQuantData.com](https://llmquantdata.com)
-AI-native financial data platform — connect your LLMs and AI Agents with structured, API-ready financial data. Includes **[data-mcp](https://github.com/LLMQuant/llmquant-data-mono)** for MCP protocol integration.
+<p>
+  <a href="https://llmquant.com"><img alt="Website" src="https://img.shields.io/badge/Website-llmquant.com-000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/company/llmquant"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LLMQuant-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://forms.gle/xYQS2sUbHgVEftkt5"><img alt="Join Community" src="https://img.shields.io/badge/Join-Community-22C55E?style=flat-square&logo=googleforms&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:info@llmquant.com"><img alt="Email" src="https://img.shields.io/badge/Email-info%40llmquant.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
-### 📚 [Quant-Wiki.com](https://quant-wiki.com)
-Open-source knowledge base for quantitative investing — bridging the gap between retail users and professional quant researchers.
+</div>
 
-### 📄 [QuantPaper.com](https://quantpaper.com)
-Curated collection of quantitative finance research papers, searchable and AI-readable.
+<br/>
 
-### 🧠 [Quant-Mind](https://github.com/LLMQuant/quant-mind)
-AI-powered research and reasoning framework for quantitative finance.
+## 🧭 About
 
-### 🛠️ LLMQuant-Skills *(coming soon)*
-Reusable AI agent skills for financial workflows — plug-and-play capabilities for your quant agents.
+**LLMQuant** is an open-source community focused on **AI, LLMs, and quantitative finance**. We build practical tools and share proven techniques to bring AI into financial investment research — from data pipelines to trading workflows.
 
-### ❓ [QuantQuestion.com](https://quantquestion.com)
-Community-driven Q&A platform for quantitative finance and AI in finance.
+<br/>
 
-## 🚀 Vision
-To build an open, intelligent, and collaborative fintech ecosystem that empowers researchers, developers, and investors alike.
-
-## How it works
-
-- 📚 **Join**: Join the community and explore the latest AI use case in quantitative research with us, you will receive the event updates and access our best AI4Quant solutions.
-- 🛠️ **Contribute**: You can contribute to our community by sharing your use case of AI in quantitative finance. We strongly appreciate the code contribution to our github project repositories.
-- 🧠 **Apply**: Apply our best AI4Quant solutions in production environment, which are verified by experienced quantiative researchers and AI experts.
-- 🤝 **Community Support**: Join our community of like-minded professionals to share knowledge, ask questions, and collaborate on projects.
-
-## Getting Started
-
-To get started with LLMQuant, visit our [website](https://llmquant.com/) and explore the following sections:
-
-1. 📘 **Tutorials**: Detailed guides to help you get started with LLMs in finance.
-2. 💾 **Resources**: Downloadable code, datasets, and models.
-3. 📰 **Update**: Stay updated with the latest news and expert opinions.
-4. 🌐 **Community**: Connect with other professionals in the field.
-
-## Contributing
-
-We welcome contributions from the community! If you have tutorials, tools, or insights to share, please check our [contribution guidelines](https://llmquant.com/contribute).
-
-## Contact
-
-For any questions or inquiries, feel free to reach out to us at [info@llmquant.com](mailto:info@llmquant.com).
-
-Follow us on social media:
-
-- 💼 [LinkedIn](https://linkedin.com/company/llmquant)
-
-- 💼 [Join our community](https://forms.gle/xYQS2sUbHgVEftkt5)
 ---
+
+<h2 align="center">🔍 Products &amp; Projects</h2>
+
+<p align="center">
+  <sub>Six initiatives spanning data infrastructure, knowledge, research, and community.</sub>
+</p>
+
+<br/>
+
+<!-- ───────── Flagship ───────── -->
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="180">
+      <img src="../assets/llmquant-data-logo.svg" width="128" alt="LLMQuant Data logo"/>
+    </td>
+    <td valign="middle">
+      <h3>
+        <a href="https://llmquantdata.com">LLMQuant Data</a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/flagship-red?style=flat-square" alt="Flagship"/>
+      </h3>
+      <p>
+        AI-native financial data platform — connect your LLMs and AI agents with structured, API-ready financial data.
+        Ships with <a href="https://github.com/LLMQuant/llmquant-data-mono"><strong>data-mcp</strong></a> for native MCP protocol integration.
+      </p>
+      <p>
+        <a href="https://llmquantdata.com"><strong>Explore LLMQuant Data →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ───────── Ecosystem Grid ───────── -->
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="../assets/quant-wiki-logo-dark.svg">
+        <img src="../assets/quant-wiki-logo.svg" width="88" alt="Quant Wiki logo"/>
+      </picture>
+      <br/><br/>
+      <strong><a href="https://quant-wiki.com">Quant Wiki</a></strong>
+      <br/>
+      <sub>Open-source knowledge base<br/>for quantitative investing.</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="../assets/quant-paper-logo.png" width="88" alt="Quant Paper logo"/>
+      <br/><br/>
+      <strong><a href="https://quantpaper.com">Quant Paper</a></strong>
+      <br/>
+      <sub>Curated quant research<br/>papers, searchable &amp; AI-readable.</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="../assets/quant-mind-logo.png" width="88" alt="Quant Mind logo"/>
+      <br/><br/>
+      <strong><a href="https://github.com/LLMQuant/quant-mind">Quant Mind</a></strong>
+      <br/>
+      <sub>AI-powered research and<br/>reasoning framework.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="../assets/quant-question-logo.png" width="88" alt="Quant Question logo"/>
+      <br/><br/>
+      <strong><a href="https://quantquestion.com">Quant Question</a></strong>
+      <br/>
+      <sub>Community-driven Q&amp;A for<br/>quantitative finance.</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="../assets/skills-logo-dark.svg">
+        <img src="../assets/skills-logo.svg" width="88" alt="LLMQuant Skills logo"/>
+      </picture>
+      <br/><br/>
+      <strong>LLMQuant Skills</strong>
+      &nbsp;
+      <img src="https://img.shields.io/badge/coming_soon-lightgrey?style=flat-square" alt="Coming soon"/>
+      <br/>
+      <sub>Reusable AI agent skills<br/>for quant workflows.</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub><em>More initiatives<br/>in the making…</em></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<h2 align="center">🚀 Vision</h2>
+
+<p align="center">
+  <a href="https://llmquant.com">
+    <img src="../assets/vision.svg" alt="LLMQuant Vision"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Get Involved
+
+- 📚 &nbsp; **Join** — Follow the community for event updates and early access to our AI4Quant solutions.
+- 🛠️ &nbsp; **Contribute** — Share your use cases, or contribute code to any of our [repositories](https://github.com/LLMQuant).
+- 🧠 &nbsp; **Apply** — Use our production-ready solutions, validated by experienced quant researchers and AI experts.
+- 💬 &nbsp; **Connect** — Exchange ideas with a community of AI and quant professionals.
+
+<p align="center">
+  <a href="https://llmquant.com"><strong>Start at llmquant.com →</strong></a>
+</p>
+
+---
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <strong>Community</strong>
+      <br/><br/>
+      <a href="https://forms.gle/xYQS2sUbHgVEftkt5">Join Group</a>
+      <br/>
+      <a href="https://linkedin.com/company/llmquant">LinkedIn</a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="center" valign="top">
+      <strong>Products</strong>
+      <br/><br/>
+      <a href="https://llmquantdata.com">LLMQuant Data</a>
+      <br/>
+      <a href="https://quant-wiki.com">Quant Wiki</a>
+      <br/>
+      <a href="https://quantpaper.com">Quant Paper</a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="center" valign="top">
+      <strong>Open Source</strong>
+      <br/><br/>
+      <a href="https://github.com/LLMQuant/quant-mind">Quant Mind</a>
+      <br/>
+      <a href="https://github.com/LLMQuant/llmquant-data-mono">data-mcp</a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="center" valign="top">
+      <strong>Contact</strong>
+      <br/><br/>
+      <a href="mailto:info@llmquant.com">info@llmquant.com</a>
+      <br/>
+      <a href="https://llmquant.com">llmquant.com</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<sub><i>Open-source · AI-native · Quant-driven</i></sub>
+
+</div>
