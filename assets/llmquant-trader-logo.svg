@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <!-- Glowing halo around the whole system -->
+    <radialGradient id="halo-g3" cx="50%" cy="50%">
+      <stop offset="18%" stop-color="#CC785C" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#FFA670" stop-opacity="0.75"/>
+      <stop offset="75%" stop-color="#CC785C" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#CC785C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="disk-g3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A83C22"/>
+      <stop offset="50%" stop-color="#FFA670"/>
+      <stop offset="100%" stop-color="#A83C22"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="rotate(-15 50 50)">
+    <!-- Atmospheric glow halo (radial gradient fill, simulates disk radiation) -->
+    <ellipse cx="50" cy="50" rx="46" ry="13" fill="url(#halo-g3)"/>
+
+    <!-- Top lensing arc -->
+    <path d="M 18 52 Q 50 10 82 52" stroke="#E79A6F" stroke-width="1.8" stroke-linecap="round" opacity="0.95" fill="none"/>
+
+    <!-- Bottom lensing arc — fainter -->
+    <path d="M 26 58 Q 50 86 74 58" stroke="#CC785C" stroke-width="1.3" stroke-linecap="round" opacity="0.5" fill="none"/>
+
+    <!-- Photon ring — visible between horizon and disk -->
+    <circle cx="50" cy="50" r="18" stroke="#E79A6F" stroke-width="0.7" opacity="0.65"/>
+
+    <!-- Event horizon -->
+    <circle cx="50" cy="50" r="14" fill="#161413"/>
+
+    <!-- Front disk edge — crisp stroke on top of glow -->
+    <path d="M 10 50 Q 50 64 90 50" stroke="url(#disk-g3)" stroke-width="3" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

@@ -24,23 +24,15 @@
 
 </div>
 
-<br/>
-
 ## 🧭 About
 
 **LLMQuant** is an open-source community focused on **AI, LLMs, and quantitative finance**. We build practical tools and share proven techniques to bring AI into financial investment research — from data pipelines to trading workflows.
-
-<br/>
-
----
 
 <h2 align="center">🔍 Products &amp; Projects</h2>
 
 <p align="center">
   <sub>Six initiatives spanning data infrastructure, knowledge, research, and community.</sub>
 </p>
-
-<br/>
 
 <!-- ───────── Flagship ───────── -->
 
@@ -56,8 +48,10 @@
         <img src="https://img.shields.io/badge/flagship-red?style=flat-square" alt="Flagship"/>
       </h3>
       <p>
-        AI-native financial data platform — connect your LLMs and AI agents with structured, API-ready financial data.
-        Ships with <a href="https://github.com/LLMQuant/llmquant-data-mono"><strong>data-mcp</strong></a> for native MCP protocol integration.
+        <strong><em>The knowledge harness for AI-native finance.</em></strong>
+        <br/>
+        Market data, research, and macro context — structured for LLM agents, delivered through one unified API.
+        Ships with <a href="https://github.com/LLMQuant/llmquant-data-mono"><strong>data-mcp</strong></a> for native MCP protocol integration. <em>One harness, not six integrations.</em>
       </p>
       <p>
         <a href="https://llmquantdata.com"><strong>Explore LLMQuant Data →</strong></a>
@@ -65,8 +59,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
 
 <!-- ───────── Ecosystem Grid ───────── -->
 
@@ -80,21 +72,21 @@
       <br/><br/>
       <strong><a href="https://quant-wiki.com">Quant Wiki</a></strong>
       <br/>
-      <sub>Open-source knowledge base<br/>for quantitative investing.</sub>
+      <sub>Open-source bilingual wiki<br/>for quantitative finance.</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="../assets/quant-paper-logo.png" width="88" alt="Quant Paper logo"/>
       <br/><br/>
       <strong><a href="https://quantpaper.com">Quant Paper</a></strong>
       <br/>
-      <sub>Curated quant research<br/>papers, searchable &amp; AI-readable.</sub>
+      <sub>AI-powered paper discovery —<br/>semantic search &amp; knowledge cards.</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="../assets/quant-mind-logo.png" width="88" alt="Quant Mind logo"/>
       <br/><br/>
       <strong><a href="https://github.com/LLMQuant/quant-mind">Quant Mind</a></strong>
       <br/>
-      <sub>AI-powered research and<br/>reasoning framework.</sub>
+      <sub>Turn financial knowledge into<br/>actionable intelligence.</sub>
     </td>
   </tr>
   <tr><td colspan="3"><br/></td></tr>
@@ -104,7 +96,7 @@
       <br/><br/>
       <strong><a href="https://quantquestion.com">Quant Question</a></strong>
       <br/>
-      <sub>Community-driven Q&amp;A for<br/>quantitative finance.</sub>
+      <sub>Quant interview prep —<br/>curated problem bank &amp; membership.</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <picture>
@@ -119,24 +111,23 @@
       <sub>Reusable AI agent skills<br/>for quant workflows.</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <sub><em>More initiatives<br/>in the making…</em></sub>
+      <img src="../assets/llmquant-trader-logo.svg" width="98" alt="LLMQuant Trader logo"/>
+      <br/><br/>
+      <strong>LLMQuant Trader<sub>?</sub></strong>
+      <br/>
+      <sub>An AI agent for trading.<br/><em>Beyond the event horizon.</em></sub>
     </td>
   </tr>
 </table>
 
-<br/>
 
----
-
-<h2 align="center">🚀 Vision</h2>
+<h2 align="center"><img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/>&nbsp;&nbsp;Vision&nbsp;&nbsp;<img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/></h2>
 
 <p align="center">
   <a href="https://llmquant.com">
     <img src="../assets/vision.svg" alt="LLMQuant Vision"/>
   </a>
 </p>
-
----
 
 ## 🤝 Get Involved
 
@@ -168,14 +159,16 @@
       <br/><br/>
       <a href="https://llmquantdata.com">LLMQuant Data</a>
       <br/>
-      <a href="https://quant-wiki.com">Quant Wiki</a>
-      <br/>
-      <a href="https://quantpaper.com">Quant Paper</a>
+      <a href="https://quantquestion.com">Quant Question</a>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center" valign="top">
       <strong>Open Source</strong>
       <br/><br/>
+      <a href="https://quant-wiki.com">Quant Wiki</a>
+      <br/>
+      <a href="https://quantpaper.com">Quant Paper</a>
+      <br/>
       <a href="https://github.com/LLMQuant/quant-mind">Quant Mind</a>
       <br/>
       <a href="https://github.com/LLMQuant/llmquant-data-mono">data-mcp</a>
