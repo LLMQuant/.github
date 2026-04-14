@@ -24,11 +24,11 @@
 
 </div>
 
-## 🧭 About
+### 🧭 About
 
 **LLMQuant** is an open-source community focused on **AI, LLMs, and quantitative finance**. We build practical tools and share proven techniques to bring AI into financial investment research — from data pipelines to trading workflows.
 
-<h2 align="center">🔍 Products &amp; Projects</h2>
+<h3 align="center">🔍 Products &amp; Projects</h3>
 
 <p align="center">
   <sub>Six initiatives spanning data infrastructure, knowledge, research, and community.</sub>
@@ -121,7 +121,7 @@
 </table>
 
 
-<h2 align="center"><img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/>&nbsp;&nbsp;Vision&nbsp;&nbsp;<img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/></h2>
+<h3 align="center"><img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/>&nbsp;&nbsp;Vision&nbsp;&nbsp;<img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/></h3>
 
 <p align="center">
   <a href="https://llmquant.com">
@@ -129,7 +129,7 @@
   </a>
 </p>
 
-## 🤝 Get Involved
+### 🤝 Get Involved
 
 - 📚 &nbsp; **Join** — Follow the community for event updates and early access to our AI4Quant solutions.
 - 🛠️ &nbsp; **Contribute** — Share your use cases, or contribute code to any of our [repositories](https://github.com/LLMQuant).
