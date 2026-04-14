@@ -7,24 +7,23 @@ Welcome to **LLMQuant**, an open-source community focusing on AI, LLM (large lan
 
 # 🔍 Our Solutions
 
-### 🌐 [Quant-Wiki.com](https://quant-wiki.com)
-An open-source knowledge base for quantitative investing. Our mission is to bridge the gap between retail users and professional quantitative researchers.
+### 🌐 [LLMQuantData.com](https://llmquantdata.com)
+AI-native financial data platform — connect your LLMs and AI Agents with structured, API-ready financial data. Includes **[data-mcp](https://github.com/LLMQuant/llmquant-data-mono)** for MCP protocol integration.
 
-### 🧠 LLMQuant Data
-Connect your large language models (LLMs) with AI-readable financial data. We're building the financial data infrastructure for generative AI.
+### 📚 [Quant-Wiki.com](https://quant-wiki.com)
+Open-source knowledge base for quantitative investing — bridging the gap between retail users and professional quant researchers.
 
-### 📊 MarketPulse
-Conduct deep market research using AI Agents and private knowledge from financial experts.
+### 📄 [QuantPaper.com](https://quantpaper.com)
+Curated collection of quantitative finance research papers, searchable and AI-readable.
 
-### 🤖 Magents.ai
-The next-generation AI-powered trading system for strategy simulation and backtesting.
+### 🧠 [Quant-Mind](https://github.com/LLMQuant/quant-mind)
+AI-powered research and reasoning framework for quantitative finance.
 
-## 🧩 Other Ecosystem Components
-Including (but not limited to):
-- **quantquestion.com**
-- **alpha agent**
-- **deep research**
-- and more coming soon...
+### 🛠️ LLMQuant-Skills *(coming soon)*
+Reusable AI agent skills for financial workflows — plug-and-play capabilities for your quant agents.
+
+### ❓ [QuantQuestion.com](https://quantquestion.com)
+Community-driven Q&A platform for quantitative finance and AI in finance.
 
 ## 🚀 Vision
 To build an open, intelligent, and collaborative fintech ecosystem that empowers researchers, developers, and investors alike.
@@ -59,4 +58,3 @@ Follow us on social media:
 
 - 💼 [Join our community](https://forms.gle/xYQS2sUbHgVEftkt5)
 ---
-
