@@ -99,10 +99,7 @@
       <sub>Quant interview prep —<br/>curated problem bank &amp; membership.</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="../assets/skills-logo-dark.svg">
-        <img src="../assets/skills-logo.svg" width="88" alt="LLMQuant Skills logo"/>
-      </picture>
+      <img src="../assets/skills-logo.svg" width="88" alt="LLMQuant Skills logo"/>
       <br/><br/>
       <strong>LLMQuant Skills</strong>
       &nbsp;
@@ -119,7 +116,6 @@
     </td>
   </tr>
 </table>
-
 
 <h3 align="center"><img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/>&nbsp;&nbsp;Vision&nbsp;&nbsp;<img src="../assets/vision-icon.svg" width="28" align="absmiddle" alt=""/></h3>
 
