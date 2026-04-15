@@ -51,7 +51,7 @@
         <strong><em>The knowledge harness for AI-native finance.</em></strong>
         <br/>
         Market data, research, and macro context — structured for LLM agents, delivered through one unified API.
-        Ships with <a href="https://github.com/LLMQuant/llmquant-data-mono"><strong>data-mcp</strong></a> for native MCP protocol integration. <em>One harness, not six integrations.</em>
+        Ships with <a href="https://github.com/LLMQuant/data-mcp"><strong>data-mcp</strong></a> for native MCP protocol integration. <em>One harness, not six integrations.</em>
       </p>
       <p>
         <a href="https://llmquantdata.com"><strong>Explore LLMQuant Data →</strong></a>
