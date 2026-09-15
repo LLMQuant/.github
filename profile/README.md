@@ -110,9 +110,9 @@
     <td align="center" valign="top" width="33%">
       <img src="../assets/llmquant-trader-logo.svg" width="98" alt="LLMQuant Trader logo"/>
       <br/><br/>
-      <strong>LLMQuant Trader<sub>?</sub></strong>
+      <strong>LLMQuant<sub>?</sub></strong>
       <br/>
-      <sub>An AI agent for trading.<br/><em>Beyond the event horizon.</em></sub>
+      <sub>An AI agent.<br/><em>Beyond the event horizon.</em></sub>
     </td>
   </tr>
 </table>
