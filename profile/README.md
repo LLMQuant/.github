@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/flagship-red?style=flat-square" alt="Flagship"/>
       </h3>
       <p>
-        <strong><em>The knowledge harness for AI-native finance.</em></strong>
+        <strong><em>The open-source knowledge harness for AI-native finance.</em></strong>
         <br/>
         Market data, research, and macro context — structured for LLM agents, delivered through one unified API.
         Ships with <a href="https://github.com/LLMQuant/data-mcp"><strong>data-mcp</strong></a> for native MCP protocol integration. <em>One harness, not six integrations.</em>
