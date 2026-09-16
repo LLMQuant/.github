@@ -50,7 +50,7 @@
       <p>
         <strong><em>The open-source knowledge harness for AI-native finance.</em></strong>
         <br/>
-        Market data, research, and macro context — structured for LLM agents, delivered through one unified API.
+        Market data, public research, and macro context — structured for LLM agents, delivered through one unified free API.
         Ships with <a href="https://github.com/LLMQuant/data-mcp"><strong>data-mcp</strong></a> for native MCP protocol integration. <em>One harness, not six integrations.</em>
       </p>
       <p>
